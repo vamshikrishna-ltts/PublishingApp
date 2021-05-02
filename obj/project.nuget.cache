@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "+MBokEP3RbFIyfHG9huiX/JyctGWd6n/Cs62VS6cR+XE+Tskists65ZXd4WWz9mIGgvDZ1SItERxiVIf82iDrQ==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Vamshi\\source\\repos\\Lab1Projects\\SuperBank\\SuperBank.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Vamshi\\.nuget\\packages\\humanizer.core\\2.9.9\\humanizer.core.2.9.9.nupkg.sha512"
+  ],
+  "logs": []
+}
